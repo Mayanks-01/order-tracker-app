@@ -37,8 +37,6 @@ It also features an **Admin Dashboard** to view and update order statuses.
   - Helped plan folder structure and logic
   - Wrote boilerplate backend API logic
   - Debugged connection errors and guided React Native component updates
-- **GitHub Copilot**:
-  - Suggested code completions for basic component logic
 
 ---
 
